@@ -1,0 +1,843 @@
+{
+  "sections": {
+    "1656349459325e6663": {
+      "type": "image-banner",
+      "blocks": {
+        "1656349459abe67619-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Des stickers haute définition conçus pour durer.",
+            "heading_size": "h1"
+          }
+        },
+        "1656349459abe67619-1": {
+          "type": "text",
+          "settings": {
+            "text": "Stickers personnalisés éco-responsables fabriqués en France : donnez une touche écologique à vos affaires",
+            "text_style": "caption-with-letter-spacing"
+          }
+        }
+      },
+      "block_order": [
+        "1656349459abe67619-0",
+        "1656349459abe67619-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Illustration_Stickergreen_accueil.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "4e624d64-ae57-4e8d-83da-7723e374160b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15964151185596__4e624d64-ae57-4e8d-83da-7723e374160b-1675890270466c3d04-0": {
+          "type": "column",
+          "settings": {
+            "title": "Vos stickers",
+            "text": "<p>Nous vous aidons à promouvoir votre business, votre marque et vos créations  grâce à nos autocollants personnalisés éco-responsables et français.<\/p>",
+            "link_label": "Commandez",
+            "link": "shopify:\/\/collections\/sticker-personnalise"
+          }
+        },
+        "template--15964151185596__4e624d64-ae57-4e8d-83da-7723e374160b-1675890270466c3d04-1": {
+          "type": "column",
+          "settings": {
+            "title": "Notre objectif",
+            "text": "<p>Imprimerie éco-responsable, nous voulons décarbonner au maximum le marché du sticker en adoptant des pratiques éco-responsables.<\/p>",
+            "link_label": "L'entreprise",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15964151185596__4e624d64-ae57-4e8d-83da-7723e374160b-1675890270466c3d04-0",
+        "template--15964151185596__4e624d64-ae57-4e8d-83da-7723e374160b-1675890270466c3d04-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "16564153798ba65d93": {
+      "type": "image-with-text",
+      "blocks": {
+        "1656415379b33a263c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stickers personnalisés",
+            "heading_size": "h1"
+          }
+        },
+        "1656415379b33a263c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vous recherchez des autocollants éco-responsables personnalisés avec votre design ? Chez nous, importez votre logo et nous nous occupons de tout ! Avec un délai de production de seulement 2 jours, vous recevrez rapidement vos autocollants. Nous offrons également le BAT gratuitement et la fabrication est 100% française 🇫🇷 Commandez dès maintenant et faites passer votre message !<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1656415379b33a263c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Commander maintenant",
+            "button_link": "shopify:\/\/collections\/sticker-personnalise"
+          }
+        }
+      },
+      "block_order": [
+        "1656415379b33a263c-0",
+        "1656415379b33a263c-1",
+        "1656415379b33a263c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sticker_personnalise_recycle_ecologique_2.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1652538276c5e65c88": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Stickers personnalisés",
+        "heading_size": "h2",
+        "description": "<p>Stickers garantis 5 ans l'extérieur, impression HD, livraison rapide.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sticker-personnalise",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b4927615-2eef-48aa-989d-77ceb7192fc1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Stickers transparents",
+        "heading_size": "h2",
+        "description": "<p>Imprimés sur un film transparent, ces stickers vous permet de promouvoir votre design facilement sur des objets comme des bocaux, ordinateurs, gourdes. Ils sont particulièrement adaptés pour être collé sur du verre.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "stickers-transparents",
+        "products_to_show": 5,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 36
+      }
+    },
+    "20c6ebfd-b80e-4048-a509-d1dcb6455fcc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15964151185596__20c6ebfd-b80e-4048-a509-d1dcb6455fcc-1676387131075b2513-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Étiquettes personnalisés",
+            "heading_size": "h1"
+          }
+        },
+        "template--15964151185596__20c6ebfd-b80e-4048-a509-d1dcb6455fcc-1676387131075b2513-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vous souhaitez étiquetez vos produits avec votre logo ? Grâce aux étiquettes personnalisées facilements détachables, montrez votre logo sur tous vos produits en toute simplicité. Importez facilement votre logo et nous nous occupons de tout. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15964151185596__20c6ebfd-b80e-4048-a509-d1dcb6455fcc-1676387131075b2513-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Commandez maintenant",
+            "button_link": "shopify:\/\/collections\/etiquette-en-planche"
+          }
+        }
+      },
+      "block_order": [
+        "template--15964151185596__20c6ebfd-b80e-4048-a509-d1dcb6455fcc-1676387131075b2513-0",
+        "template--15964151185596__20c6ebfd-b80e-4048-a509-d1dcb6455fcc-1676387131075b2513-1",
+        "template--15964151185596__20c6ebfd-b80e-4048-a509-d1dcb6455fcc-1676387131075b2513-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Etiquettes_personnalises_en_planche_exemple.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3dc2c0f0-02d8-4a1f-ad44-d3a6864d5a2e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Étiquettes personnalisées en planche",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "etiquette-en-planche",
+        "products_to_show": 6,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e4320da9-4608-4df6-b877-23e3a3438237": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Stickers pour vélo & casque",
+        "heading_size": "h2",
+        "description": "<p>Donnez un look unique à votre vélo avec nos stickers vélo bmx personnalisés. Imprimés sur du vinyle de haute qualité, nos stickers sont résistants aux intempéries et durables, ce qui les rend parfaits pour une utilisation sur la route ou sur votre casque.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sticker-autocollant-velo-personnalise",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "accent-2",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "165904643745596b73": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Stickers résaux sociaux",
+        "heading_size": "h2",
+        "description": "<p>Donnez de la visibilité à votre marque de manière simple et efficace grâce à nos autocollants personnalisés pour les réseaux sociaux. Avec un délai de production de seulement 2 jours, vous pourrez rapidement faire passer votre message. La durabilité de nos autocollants est exceptionnelle, ils vous accompagneront longtemps. En plus, tous nos autocollants sont fabriqués en France 🇫🇷 Commandez dès maintenant et faites découvrir votre marque !<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "reseaux-sociaux",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "accent-2",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "1664307587b00b515a": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664307587416d8541-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nos autres produits",
+            "heading_size": "h2"
+          }
+        },
+        "1664307587416d8541-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nous disposons d'un parc de machines d'impressions numériques. Nous pouvons donc réaliser bien plus de produits que des stickers. Nous pouvons réaliser des impressions sur bâches, des panneaux publicitaires et des vitrines de magasins.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1664307587416d8541-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Exemples",
+            "button_link": "shopify:\/\/pages\/autres-produits"
+          }
+        }
+      },
+      "block_order": [
+        "1664307587416d8541-0",
+        "1664307587416d8541-1",
+        "1664307587416d8541-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Boutique-bergamotte-vinyle.webp",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16644797818234c5d1": {
+      "type": "multicolumn",
+      "blocks": {
+        "16644797814b3afb6d-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16644797814b3afb6d-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_VN_2022.png",
+            "title": "Parlons-en de vive voix",
+            "text": "<p>Prenez un rendez-vous directement via mon calendrier. Nous discuterons de votre projet en ligne.<\/p>",
+            "link_label": "Prendre un rendez-vous",
+            "link": "shopify:\/\/pages\/contactez-nous"
+          }
+        },
+        "16644797814b3afb6d-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644797814b3afb6d-0",
+        "16644797814b3afb6d-1",
+        "16644797814b3afb6d-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "16564155791e0e7bd1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16564155795608ece0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stickers prédéssinés",
+            "heading_size": "h1"
+          }
+        },
+        "16564155795608ece0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Choisissez un sticker déjà créé sur notre catalogue. Le délai de production est de 2 jours, la durabilité est très longue et la fabrication est française. 🇫🇷<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16564155795608ece0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Commander maintenant",
+            "button_link": "https:\/\/stickergreen.com\/search"
+          }
+        }
+      },
+      "block_order": [
+        "16564155795608ece0-0",
+        "16564155795608ece0-1",
+        "16564155795608ece0-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Capture_d_ecran_2022-06-28_a_13.38.03.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fdf54778-901b-4fe7-b783-67130d9e76a6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15446895362236__fdf54778-901b-4fe7-b783-67130d9e76a6-16718236959d8fd6c4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vos créations sur notre Instagram 👇",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--15446895362236__fdf54778-901b-4fe7-b783-67130d9e76a6-16718236959d8fd6c4-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1671823658460b231c": {
+      "type": "apps",
+      "blocks": {
+        "d16e79d5-89e2-4ca9-82ce-a6a7ec443292": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "d16e79d5-89e2-4ca9-82ce-a6a7ec443292"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "7193c23c-34ca-4eb2-b8dc-d8d479df7d69": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15446895362236__7193c23c-34ca-4eb2-b8dc-d8d479df7d69-16718236959d8fd6c4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "@stickergreen_",
+            "button_link": "https:\/\/www.instagram.com\/stickergreen.fr\/",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15446895362236__7193c23c-34ca-4eb2-b8dc-d8d479df7d69-16718236959d8fd6c4-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "16524400184597cf46": {
+      "type": "image-with-text",
+      "blocks": {
+        "165244001812c55022-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nous voulons devenir la première imprimerie neutre en carbone.",
+            "heading_size": "h2"
+          }
+        },
+        "165244001812c55022-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Entreprise charentaise créée en 2018, nous sommes composées d'une équipe de 4 personnes. C'est en 2020 que nous décidons de créer la marque StickerGreen. Conscient des problèmes environnementaux, nous voulons rendre le marché du sticker un peu plus éco-responsable.<\/p><p>Nous réalisons toute la production des stickers en interne sans aucune sous-traitance 🇫🇷.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "165244001812c55022-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "À propos de StickerGreen",
+            "button_link": "shopify:\/\/pages\/a-propos"
+          }
+        }
+      },
+      "block_order": [
+        "165244001812c55022-0",
+        "165244001812c55022-1",
+        "165244001812c55022-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Capture_d_ecran_2022-09-27_a_13.28.55.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663624145c712c36c": {
+      "type": "collapsible-content",
+      "blocks": {
+        "58701326-3bc8-42ce-8b6b-7ab4fb2d2799": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Gamme de sticker recyclé",
+            "icon": "recycle",
+            "row_content": "<p>Depuis fin 2023, nos stickers sont recyclés à 23% environ à base de bouteilles plastiques, tout en gardant une durabilité de 5 ans à l'extérieur. C'est une réelle avancée pour le projet !<\/p>",
+            "page": ""
+          }
+        },
+        "02eb961b-6f3f-4857-a908-7382621372e0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Emballage recyclé et recyclable",
+            "icon": "box",
+            "row_content": "<p>Tous nos emballages sont maintenant recyclé et\/ou recyclable. Nous n'utilisons aucun plastique pour l'emballage de nos produits.<\/p>",
+            "page": ""
+          }
+        },
+        "16636241451a305942-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "1% For the Planet",
+            "icon": "heart",
+            "row_content": "<p>Chaque année, nous reversons 1 % de notre chiffre d'affaires à des associations environnementales. Ces 1% sont réinvestis dans des projets d'avenir pour l'environnement. En savoir plus <a href=\"https:\/\/www.onepercentfortheplanet.fr\/\" target=\"_blank\" title=\"https:\/\/www.onepercentfortheplanet.fr\/\">ici<\/a>. <\/p>",
+            "page": ""
+          }
+        },
+        "16636241451a305942-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shopify Planet",
+            "icon": "box",
+            "row_content": "<p>Shopify Planet calcul pour nous le nombre de kilomètres généré par nos commandes. En contrepartie, ils rachètent des crédits CO2 pour atteindre une certaine neutralité carbone pour les livraisons. Cela représente environ 60 000km par mois et 32kg d'émissions carbones compensés.<\/p>",
+            "page": ""
+          }
+        },
+        "16636241451a305942-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Climate Neutral",
+            "icon": "leaf",
+            "row_content": "<p>Climate Neutral est une application européenne permettant de calculer <strong>approximativement<\/strong> l'émissions de gaz à effet de serre et de compenser à investissant des projets d'avenirs. Ce n'est pas une solution miracle mais cela nous aide dans notre démarche de neutralité carbone. En savoir plus <a href=\"https:\/\/www.yourfootprint.co\/about\" target=\"_blank\" title=\"https:\/\/www.yourfootprint.co\/about\">ici<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "16636241451a305942-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "La Région Nouvelle-Aquitaine",
+            "icon": "silhouette",
+            "row_content": "<p>La Région Nouvelle-Aquitaine soutient notre projet d'imprimerie verte. Ce projet réduit mécaniquement notre compétitivité (cela engendre environ 4% de frais supplémentaires). C'est donc pour cette raison que la région à décider de nous accompagner sur 3 ans dans le but de nous faire grandir et créer un nouveau tissu économique. <\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "58701326-3bc8-42ce-8b6b-7ab4fb2d2799",
+        "02eb961b-6f3f-4857-a908-7382621372e0",
+        "16636241451a305942-0",
+        "16636241451a305942-1",
+        "16636241451a305942-2",
+        "16636241451a305942-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Nos actions pour respecter plus l'environnement.",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663623224aefd6425": {
+      "type": "multicolumn",
+      "blocks": {
+        "1663623224fdeec913-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_for_the_planet_StickerGreen.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663623224fdeec913-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shopify_planet.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663623224fdeec913-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Climate_neutral.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e9081942-4e0c-4c82-90cb-d47f3cdd7ec5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Region_nouvelle_aquitaine.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663623224fdeec913-0",
+        "1663623224fdeec913-1",
+        "1663623224fdeec913-2",
+        "e9081942-4e0c-4c82-90cb-d47f3cdd7ec5"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Découvrir les valeurs de l'entreprise",
+        "button_link": "shopify:\/\/pages\/a-propos",
+        "color_scheme": "accent-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 44
+      }
+    },
+    "9977de0a-564b-4700-a72a-fddeed6ffb39": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"reputon-google-reviews-widget\" id=\"cce6b010-8b48-11ed-8b03-3b8f911f2771\" ><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "628e7298-a80b-4a01-9589-6503a7132ef5": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--15446895362236__628e7298-a80b-4a01-9589-6503a7132ef5-167390139560b599cc-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Pourquoi des stickers personnalisés ?",
+            "icon": "none",
+            "row_content": "<p>Les stickers personnalisés sont un moyen efficace pour promouvoir votre entreprise, votre produit ou votre service. Ils sont économiques, faciles à distribuer et peuvent être utilisés de différentes manières pour augmenter la visibilité de votre marque.<\/p><p>Les stickers personnalisés peuvent être utilisés pour de nombreux objectifs, tels que :<\/p><p>La promotion de votre entreprise lors d'événements, comme des salons professionnels ou des foires commerciales.<\/p><p>L'ajout de votre logo ou de votre nom de marque sur des produits ou des emballages, pour une meilleure reconnaissance de votre marque.<\/p><p>La distribution de stickers comme des cadeaux pour vos clients ou pour des promotions spéciales.<\/p><p>L'utilisation de stickers pour créer une communauté autour de votre marque, en invitant les gens à partager des photos de leurs stickers sur les réseaux sociaux.<\/p><p>Les stickers personnalisés peuvent également être utilisés pour améliorer votre stratégie de marketing en ligne. Les gens qui reçoivent vos stickers sont plus susceptibles de les afficher sur leur ordinateur portable, leur voiture ou leur fenêtre, créant ainsi des liens naturels vers votre site web. <\/p><p>Il existe de nombreuses options pour la création de stickers personnalisés. Vous pouvez choisir le format, la taille, la couleur et le matériau en fonction de vos besoins et de votre budget. <\/p><p>En résumé, les stickers personnalisés sont un outil de marketing polyvalent qui peut être utilisé pour promouvoir votre entreprise, augmenter la visibilité de votre marque et améliorer votre stratégie de marketing en ligne. Ils sont économiques, faciles à distribuer et peuvent être adaptés à vos besoins spécifiques. N'hésitez pas à explorer les différentes options disponibles pour créer des stickers personnalisés chez StickerGreen qui reflètent votre marque et attirent l'attention de votre public cible.<\/p>",
+            "page": ""
+          }
+        },
+        "template--15446895362236__628e7298-a80b-4a01-9589-6503a7132ef5-167390139560b599cc-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Pourquoi choisir StickerGreen ?",
+            "icon": "none",
+            "row_content": "<p>Avec StickerGreen vous faites le choix avant tout de l'éco-responsabilité. En effet, comme décrit ici, nous attachons une grande importance à notre environnement. Nous voulons rendre le marché du sticker plus vert grâce à nos actions. <\/p><p>Deuxièmement, vous faites le choix de la fabrication française. En effet, notre atelier de production d'autocollant est situé en Charente. <\/p><p>Troisièmement, avec StickerGreen vous bénéficiez d'une livraison gratuite, neutre en carbone et très rapide. En moyenne nous expédions les commandes en 2 jours ouvrés. Cela fait de nous un des imprimeurs les plus rapides. <\/p><p>Dernièrement, vous faites le choix de la qualité, en effet, toutes nos étiquettes, stickers et autocollant sont de très haute durabilité. Nous sommes équipés d'imprimantes dernières générations ce qui nous permet de faire de la haute défintion. De plus, nous sommes en mesure d'ajouter un pelicullage sur votre sticker personnalisé pour le rendre résistant aux rayures, intempéries, tempêtes. Nous garantissons ce produit 5 ans. <\/p>",
+            "page": ""
+          }
+        },
+        "template--15446895362236__628e7298-a80b-4a01-9589-6503a7132ef5-167390139560b599cc-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Où coller vos stickers ?",
+            "icon": "none",
+            "row_content": "<p>Vous venez de recevoir vos autocollants personnalisés et vous ne savez pas où les coller ? Pas de panique, voici quelques idées pour vous inspirer !<\/p><p>Sur votre voiture : ajoutez une touche personnelle à votre véhicule en collant vos autocollants sur les portières, le capot ou encore le pare-brise.<\/p><p>Sur votre ordinateur portable : personnalisez votre ordinateur portable en collant un autocollant sur la coque.<\/p><p>Sur votre moto : ajoutez un peu de caractère à votre moto en collant un autocollant sur le réservoir ou le casque.<\/p><p>Sur vos murs : donnez vie à vos murs en collant un autocollant mural dans votre salon, votre chambre ou encore votre cuisine.<\/p><p>Sur votre frigo : ajoutez une touche de couleur à votre cuisine en collant un autocollant sur votre frigo.<\/p><p>Sur votre téléphone portable : personnalisez votre téléphone portable en collant un autocollant sur la coque arrière.<\/p><p>Il n'y a pas de limites à l'imagination, n'hésitez pas à expérimenter et à coller vos autocollants personnalisés sur toutes les surfaces qui vous plaisent.<\/p>",
+            "page": ""
+          }
+        },
+        "template--15446895362236__628e7298-a80b-4a01-9589-6503a7132ef5-167390139560b599cc-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vos possibilitées avec nous",
+            "icon": "none",
+            "row_content": "<p>Notre entreprise française de stickers personnalisés est fière de proposer des produits éco-responsables. Nous utilisons des matériaux durables et respectueux de l'environnement pour fabriquer et expédier nos autocollants. Que ce soit pour personnaliser votre voiture, votre ordinateur portable, votre moto ou encore vos murs, nos stickers sont fabriqués en interne en France et respectent les normes de qualité les plus élevées. Nous offrons également une large gamme de produits uniques et tendance. Commandez dès maintenant nos stickers éco-responsables en pensanr un à la planète tout en personnalisant votre espace.<\/p>",
+            "page": ""
+          }
+        },
+        "ad1acd98-f5d7-4af9-b415-347a7f7934a0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Nos prix sont-ils compétitifs ?",
+            "icon": "none",
+            "row_content": "<p>La réponse est oui ! Notre rapport qualité-prix est exceptionnel. Aujourd'hui nous sommes en mesure de vous proposer des stickers de haute qualité et durable sans augmenter les prix grâce à notre chaîne logistique essentiellement française et grâce à de l'optimisation interne au niveau de la production. Avec StickerGreen vous achetez au meilleur prix des stickers de haute qualité. <\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15446895362236__628e7298-a80b-4a01-9589-6503a7132ef5-167390139560b599cc-0",
+        "template--15446895362236__628e7298-a80b-4a01-9589-6503a7132ef5-167390139560b599cc-1",
+        "template--15446895362236__628e7298-a80b-4a01-9589-6503a7132ef5-167390139560b599cc-3",
+        "template--15446895362236__628e7298-a80b-4a01-9589-6503a7132ef5-167390139560b599cc-2",
+        "ad1acd98-f5d7-4af9-b415-347a7f7934a0"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c08c78b5-3e44-42a6-96bd-9371fa5aa867": {
+      "type": "newsletter",
+      "blocks": {
+        "template--15446895362236__c08c78b5-3e44-42a6-96bd-9371fa5aa867-167467536628746d02-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Participer à  l'aventure StickerGreen",
+            "heading_size": "h2"
+          }
+        },
+        "template--15446895362236__c08c78b5-3e44-42a6-96bd-9371fa5aa867-167467536628746d02-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Devenez acteur de notre transition vers la neutralité carbone en vous abonnant à notre newsletter et en suivant nos efforts.<\/p>"
+          }
+        },
+        "template--15446895362236__c08c78b5-3e44-42a6-96bd-9371fa5aa867-167467536628746d02-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--15446895362236__c08c78b5-3e44-42a6-96bd-9371fa5aa867-167467536628746d02-0",
+        "template--15446895362236__c08c78b5-3e44-42a6-96bd-9371fa5aa867-167467536628746d02-1",
+        "template--15446895362236__c08c78b5-3e44-42a6-96bd-9371fa5aa867-167467536628746d02-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "1656349459325e6663",
+    "4e624d64-ae57-4e8d-83da-7723e374160b",
+    "16564153798ba65d93",
+    "1652538276c5e65c88",
+    "b4927615-2eef-48aa-989d-77ceb7192fc1",
+    "20c6ebfd-b80e-4048-a509-d1dcb6455fcc",
+    "3dc2c0f0-02d8-4a1f-ad44-d3a6864d5a2e",
+    "e4320da9-4608-4df6-b877-23e3a3438237",
+    "165904643745596b73",
+    "1664307587b00b515a",
+    "16644797818234c5d1",
+    "16564155791e0e7bd1",
+    "fdf54778-901b-4fe7-b783-67130d9e76a6",
+    "1671823658460b231c",
+    "7193c23c-34ca-4eb2-b8dc-d8d479df7d69",
+    "16524400184597cf46",
+    "1663624145c712c36c",
+    "1663623224aefd6425",
+    "9977de0a-564b-4700-a72a-fddeed6ffb39",
+    "628e7298-a80b-4a01-9589-6503a7132ef5",
+    "c08c78b5-3e44-42a6-96bd-9371fa5aa867"
+  ]
+}

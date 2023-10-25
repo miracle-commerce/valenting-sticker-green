@@ -1,0 +1,420 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "caption": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "db4fd16b-1313-4065-866c-0f666f499243": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "variant_picker",
+        "caption",
+        "quantity_selector",
+        "price",
+        "buy_buttons",
+        "db4fd16b-1313-4065-866c-0f666f499243",
+        "description"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "gallery_layout": "stacked",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "166419860865ecf74c": {
+      "type": "rich-text",
+      "blocks": {
+        "1664198608426d5a0f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1664198608426d5a0f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sticker imprimé avec un vinyle adhésif d'une épaisseur de 180 microns. Doublement protégés, nos stickers résistent aux intempéries, rayures et à l'usure quotidienne. La durée de vie  est de minimum 5 ans en extérieur.<\/p><p>La finition du sticker est brillante pour des couleurs plus éclatantes.<\/p>"
+          }
+        },
+        "1664198608426d5a0f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1664198608426d5a0f-0",
+        "1664198608426d5a0f-1",
+        "1664198608426d5a0f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16515138601d79f789": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"reputon-google-reviews-widget\" id=\"59937870-ca3f-11ec-a4ce-4708f7ca8445\" style=\"display: flex; justify-content: center;\"><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn-2": {
+      "type": "multicolumn",
+      "blocks": {
+        "e306eaf9-6c74-4bb7-b5a5-8ec5ab1a0316": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/04_2_jours_de_production_f1366494-f8fb-4fe0-ad0e-961b5dc66df6.png",
+            "title": "Délai de production rapide",
+            "text": "<p>Recevez rapidement vos stickers grâce au délai de production de 2 jours et à la livraison gratuite.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "15bf8076-63dc-4630-9475-cc9a4ea0b732": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/06_Sticker_a_base_de_bouteille_plastique_391a3006-8394-4785-97ee-b5192fa95200.png",
+            "title": "Stickers à base de bouteilles plastiques",
+            "text": "<p>Stickers à base de bouteilles plastiques, durable et résistant.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "84f48b84-83c3-499f-a799-858177d975da": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03_Sticker_resistant_et_etanche.png",
+            "title": "Résistant et étanche",
+            "text": "<p>Vinyle épais et résistant qui protège vos stickers personnalisés des rayures, de la pluie et du soleil.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "e306eaf9-6c74-4bb7-b5a5-8ec5ab1a0316",
+        "15bf8076-63dc-4630-9475-cc9a4ea0b732",
+        "84f48b84-83c3-499f-a799-858177d975da"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 32
+      }
+    },
+    "1658772657adc333fc": {
+      "type": "collapsible-content",
+      "blocks": {
+        "a6b793f9-d4f2-4851-9b44-7b09601008df": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Que se passe-t-il après ma commande ?",
+            "icon": "none",
+            "row_content": "<p>Après votre commande, nous recevons celle-ci dans notre logiciel. Par la suite nous créons le BAT et nous vous l'envoyons directement par mail pour une validation. Après votre validation, votre commande est mise en production et est expédiée.<\/p>",
+            "page": ""
+          }
+        },
+        "4c02d6de-da9a-4830-a481-8df2afff56b6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quel est le délai de production ?",
+            "icon": "none",
+            "row_content": "<p>Habituellement nous expédions les autocollants personnalisés en 2 jours ouvrés.<\/p>",
+            "page": ""
+          }
+        },
+        "1658772657b7745eca-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Les stickers sont-ils résistants ?",
+            "icon": "none",
+            "row_content": "<p>Tous nos stickers sont fait pour durer minimum 3 ans. Ils résistent à l'eau et au soleil.<\/p>",
+            "page": ""
+          }
+        },
+        "8788800e-609b-4f3b-a226-e4569c57fb3a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ou puis-je coller le sticker ?",
+            "icon": "none",
+            "row_content": "<p>Vous pouvez coller le sticker sur tous les supports <strong>non paureuse. La surface doit être lisse. <\/strong>Les domaines d'application sont très large (cartons, papier, verre, plastique, bois lisse, meuble, métal, mur lisse...)<\/p>",
+            "page": ""
+          }
+        },
+        "281051fc-c983-4cfd-a876-24ad588ffa65": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Les stickers sont-ils Waterproof ?",
+            "icon": "none",
+            "row_content": "<p>Oui tous nos stickers sont faits pour résister à l'eau dans un temps prolongé.<\/p><p>Par exemple, vous pouvez coller les stickers sur une coque de bateau sans soucis.<\/p>",
+            "page": ""
+          }
+        },
+        "2819b3d4-f3b4-48b0-8951-33c825d881d1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "L'adhésif va-t-il endommager ma surface ?",
+            "icon": "none",
+            "row_content": "<p>Nos adhésifs sont faits pour coller extrêmement bien mais ils sont aussi indéchirables et ne laissent aucune traces lors de l'enlevage de celui-ci. Le sticker ne va pas endommager la surface.<\/p><p>Certains éléments sont à prendre en compte lors de l'enlevage, un produit de netyoyant peut aider pour décoller le sticker.<\/p>",
+            "page": ""
+          }
+        },
+        "1658772657b7745eca-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je avoir des échantillons ?",
+            "icon": "none",
+            "row_content": "<p>Actuellement avoir des échantillons n'est pas possible, par contre vous pouvez commander un stickers à partir de 14,90€. <\/p>",
+            "page": ""
+          }
+        },
+        "1658772657b7745eca-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je vous contacter pour de l'aide ?",
+            "icon": "none",
+            "row_content": "<p>Oui avec grand plaisir ! Notre mail : contact@stickergreen.com ou 06 40 63 70 08.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "a6b793f9-d4f2-4851-9b44-7b09601008df",
+        "4c02d6de-da9a-4830-a481-8df2afff56b6",
+        "1658772657b7745eca-0",
+        "8788800e-609b-4f3b-a226-e4569c57fb3a",
+        "281051fc-c983-4cfd-a876-24ad588ffa65",
+        "2819b3d4-f3b4-48b0-8951-33c825d881d1",
+        "1658772657b7745eca-1",
+        "1658772657b7745eca-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1656538869698b6958": {
+      "type": "image-with-text",
+      "blocks": {
+        "1656538869be527bb4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "À propos de StickerGreen",
+            "heading_size": "h2"
+          }
+        },
+        "1656538869be527bb4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Entreprise charentaise créée en 2018, nous sommes composées d'une équipe de 4 personnes. C'est en 2020 que nous décidons de créer la marque StickerGreen. Conscient des problèmes environnementaux, nous voulons rendre le marché du sticker un peu plus éco-responsable.<\/p><p>Nous réalisons toute la production des stickers en interne sans aucune sous-traitance 🇫🇷.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1656538869be527bb4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Découvrir les valeurs de StickerGreen",
+            "button_link": "shopify:\/\/pages\/a-propos"
+          }
+        }
+      },
+      "block_order": [
+        "1656538869be527bb4-0",
+        "1656538869be527bb4-1",
+        "1656538869be527bb4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Origine_de_StickerGreen.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658870835ee2e1040": {
+      "type": "apps",
+      "blocks": {
+        "8eaddd76-84a5-4c92-a373-7a550ad67ec4": {
+          "type": "shopify:\/\/apps\/planet\/blocks\/shopify-planet\/12047591-3a2d-45cc-9dfd-2ce5eaa45dee",
+          "settings": {
+            "backgroundColor": "#f1f8f5",
+            "textColor": "#1d4136",
+            "borderColor": "#95c9b4",
+            "showLogo": true,
+            "showMoreInfo": true,
+            "showStats": false,
+            "showProjects": false,
+            "fullWidth": true,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "borderRadius": 4
+          }
+        }
+      },
+      "block_order": [
+        "8eaddd76-84a5-4c92-a373-7a550ad67ec4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Vous aimeriez aussi",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 44
+      }
+    },
+    "16565393799cd8f216": {
+      "type": "rich-text",
+      "blocks": {
+        "165653937922180356-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Une question ? Besoin d'aide pour la pose ?",
+            "heading_size": "h2"
+          }
+        },
+        "165653937922180356-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nous avons <a href=\"https:\/\/stickergreen.com\/pages\/poser-un-sticker\" target=\"_blank\" title=\"https:\/\/stickergreen.com\/pages\/poser-un-sticker\">des tutos<\/a> pour vous aider à poser vos stickers.<\/p><p>Si besoin, contactez-nous grâce au bouton en bas à droite de votre écran ou directement par mail à contact@stickergreen.com<\/p><p>Et surtout, nous restons à votre disposition 👍<\/p><p><\/p>"
+          }
+        },
+        "165653937922180356-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contactez-nous",
+            "button_link": "shopify:\/\/pages\/contactez-nous",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165653937922180356-0",
+        "165653937922180356-1",
+        "165653937922180356-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166419860865ecf74c",
+    "16515138601d79f789",
+    "multicolumn-2",
+    "1658772657adc333fc",
+    "1656538869698b6958",
+    "1658870835ee2e1040",
+    "product-recommendations",
+    "16565393799cd8f216"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "Tous nos produits",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "columns_mobile": "2"
+      }
+    },
+    "16648054930d57a6ba": {
+      "type": "multicolumn",
+      "blocks": {
+        "1664805492d4fe6ac1-0": {
+          "type": "column",
+          "settings": {
+            "title": "TPE française spécialiste du stickers. 🇫🇷",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1664805492d4fe6ac1-1": {
+          "type": "column",
+          "settings": {
+            "title": "Avançons ensemble vers la neutralité carbone.🌳",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1664805492d4fe6ac1-2": {
+          "type": "column",
+          "settings": {
+            "title": "Depuis 2018 avec vous ! 💪",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664805492d4fe6ac1-0",
+        "1664805492d4fe6ac1-1",
+        "1664805492d4fe6ac1-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16648054930d57a6ba"
+  ]
+}

@@ -1,0 +1,734 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 32
+      }
+    },
+    "5a76fb96-a881-4e6d-ad34-d4b6562333d3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15964151251132__5a76fb96-a881-4e6d-ad34-d4b6562333d3-1676067939632d131b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nous voulons devenir la première imprimerie carboneutre.",
+            "heading_size": "h1"
+          }
+        },
+        "template--15964151251132__5a76fb96-a881-4e6d-ad34-d4b6562333d3-1676067939632d131b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La grande ambition derrière l'entreprise StickerGreen est la volonté de devenir au plus vite neutre en carbone. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15964151251132__5a76fb96-a881-4e6d-ad34-d4b6562333d3-1676067939632d131b-0",
+        "template--15964151251132__5a76fb96-a881-4e6d-ad34-d4b6562333d3-1676067939632d131b-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16563508656b043041": {
+      "type": "rich-text",
+      "blocks": {
+        "16563508653660cdc5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Construire une imprimerie responsable",
+            "heading_size": "h1"
+          }
+        },
+        "16563508653660cdc5-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16563508653660cdc5-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16563508653660cdc5-0",
+        "16563508653660cdc5-1",
+        "16563508653660cdc5-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 28
+      }
+    },
+    "24851e46-bbda-42dc-b8e8-18861d0e5411": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15446895198396__24851e46-bbda-42dc-b8e8-18861d0e5411-16718266865211d296-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "L'équipe à votre service 💚",
+            "heading_size": "h2"
+          }
+        },
+        "template--15446895198396__24851e46-bbda-42dc-b8e8-18861d0e5411-16718266865211d296-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Chez StickerGreen, nous sommes fiers d'être une entreprise charentaise créée en 2018, dirigée par une équipe dynamique et passionnée de 4 personnes.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15446895198396__24851e46-bbda-42dc-b8e8-18861d0e5411-16718266865211d296-0",
+        "template--15446895198396__24851e46-bbda-42dc-b8e8-18861d0e5411-16718266865211d296-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG-5056.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1656350872233b556f": {
+      "type": "image-with-text",
+      "blocks": {
+        "16563508726ee397a6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "L'origine",
+            "heading_size": "h2"
+          }
+        },
+        "16563508726ee397a6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>C'est en 2020 que nous décidons de créer la marque StickerGreen. Conscient des problèmes environnementaux, nous voulons rendre le marché du sticker un peu plus éco-responsable. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "16563508726ee397a6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16563508726ee397a6-0",
+        "16563508726ee397a6-1",
+        "16563508726ee397a6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Origine_de_StickerGreen.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663658839bc89ac0a": {
+      "type": "image-with-text",
+      "blocks": {
+        "16636588399e3ba511-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "L'atelier",
+            "heading_size": "h2"
+          }
+        },
+        "16636588399e3ba511-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>L'atelier est localisé dans la ville sympathique de Jarnac. Il est composé d'imprimante japonaise de dernières générations. Cela nous permet d'être compétitif et de proposer la meilleure qualité possible en impression numérique.<\/p><p>Vous passez à Jarnac ? Venez nous rendre visite 🙌<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16636588399e3ba511-0",
+        "16636588399e3ba511-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Capture_d_ecran_2022-09-27_a_13.28.55.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663660601b1306648": {
+      "type": "multicolumn",
+      "blocks": {
+        "16636606019cbd8d4f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_Mimaki_Partenaire_de_StickerGreen_76ebbee4-7042-4e3a-bc66-b7641c637d44.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16636606019cbd8d4f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_Orafol_partenaire_de_StickerGreen_c0d5eca1-8028-4565-8f22-d9798da8214e.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16636606019cbd8d4f-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_cenpac_partenaire_de_Stickergreen_a20d05e0-4d44-4208-acc1-736973bededa.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "98dd9df7-1b53-4882-8e8b-0a8f36bd6877": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_Hexis_partenaire_de_StickerGreen_7581148d-ee7c-46d6-864f-22c831820722.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16636606019cbd8d4f-0",
+        "16636606019cbd8d4f-1",
+        "16636606019cbd8d4f-2",
+        "98dd9df7-1b53-4882-8e8b-0a8f36bd6877"
+      ],
+      "settings": {
+        "title": "Nos fournisseurs - Leaders mondiaux",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "16636603987dd8964b": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "Découvrez en vidéo StickerGreen",
+        "heading_size": "h2",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1656350236cf90f7fc": {
+      "type": "image-with-text",
+      "blocks": {
+        "1656350236cc1ba231-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nous nous sommes fixés deux objectifs :",
+            "heading_size": "h2"
+          }
+        },
+        "1656350236cc1ba231-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>1.<\/strong> Imprimer des stickers vous proposant le meilleur rapport qualité\/prix. <\/p><p><strong>2.<\/strong> <strong>Être une force positive pour la société et l'environnement.<\/strong> Nous voulons devenir la première imprimerie totalement neutre en carbone.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1656350236cc1ba231-0",
+        "1656350236cc1ba231-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Illustration_10_pour_l_environnement.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 36
+      }
+    },
+    "165941976952eb3b81": {
+      "type": "rich-text",
+      "blocks": {
+        "1659419769250dd4fd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Notre vision",
+            "heading_size": "h2"
+          }
+        },
+        "1659419769250dd4fd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nous croyons que le marché des autocollants sera présent dans les années à venir, mais nous savons également que pour l'instant, il est difficile de remplacer le papier waterproof par une solution durable. <\/p><p>Cependant, cela ne justifie pas de ne rien faire pour être plus éco-responsable. Chez StickerGreen, notre vision n'est pas de transformer radicalement le marché des autocollants, mais plutôt de proposer une solution éco-responsable. <\/p><p><strong>Nous mettons en place des actions concrètes telles que 1% For the Planet ou des livraisons neutres en carbone pour réduire notre impact environnemental. <\/strong><\/p><p><strong>Depuis 2023, nous stickers sont composés à base de bouteilles plastiques (23% environ). ♻︎<\/strong><\/p><p><strong>Nous sommes une jeune marque et nous ne sommes pas encore parfaits, mais notre objectif est d'atteindre rapidement la neutralité carbone.<\/strong> <\/p><p>Grâce à votre soutien, nous nous rapprochons de cet objectif chaque jour. Faites-nous confiance pour faire tout ce qui est en notre pouvoir pour améliorer, à notre échelle, le monde.<\/p>"
+          }
+        },
+        "1659419769250dd4fd-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1659419769250dd4fd-0",
+        "1659419769250dd4fd-1",
+        "1659419769250dd4fd-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16636628735779420c": {
+      "type": "multicolumn",
+      "blocks": {
+        "1663662873169af523-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reduire-empreinte-carbone-numerique-site-web.jpg",
+            "title": ".1 ✅",
+            "text": "<p>Prendre tout de suite des mesures pour se rapprocher de la neutralité carbone (sticker recyclé, 1% For the Planet...)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663662873169af523-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Empreinte_Carbone.png",
+            "title": ".2 🛠",
+            "text": "<p>Établir un bilan carbone complet de StickerGreen. C'est prévu pour début 2024 pour l'année 2023.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663662873169af523-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CO2-Neutralite-ocom.jpg",
+            "title": ".3  🛠",
+            "text": "<p>Rendre notre entreprise totalement neutre en carbone et inclure une gamme de produit plus respectueux de l'environnement.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5ced69dc-7b38-4a27-ad34-b85116325a51": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1200px-Sciences_de_la_terre.svg_b71f6a36-c263-4938-bd16-f9ff2978c4c9.png",
+            "title": ".4  🛠",
+            "text": "<p>Rendre 100% de la chaîne de valeur neutre en carbone. Cela corresponds à prendre en compte toutes les parties prenantes.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663662873169af523-0",
+        "1663662873169af523-1",
+        "1663662873169af523-2",
+        "5ced69dc-7b38-4a27-ad34-b85116325a51"
+      ],
+      "settings": {
+        "title": "Notre feuille de route",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "166365823023aefc32": {
+      "type": "collapsible-content",
+      "blocks": {
+        "9ca10648-78d2-4be4-84fb-99d494a6e6c1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Gamme de sticker recyclé",
+            "icon": "recycle",
+            "row_content": "<p>Depuis fin 2023, nos stickers sont recyclés à 23% environ à base de bouteilles plastiques, tout en gardant une durabilité de 5 ans à l'extérieur. C'est une réelle avancée pour le projet !<\/p>",
+            "page": ""
+          }
+        },
+        "827fdeab-9124-4763-8389-9815bccbd727": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Emballage recyclé et recyclable",
+            "icon": "box",
+            "row_content": "<p>Tous nos emballages sont maintenant recyclé et\/ou recyclable. Nous n'utilisons aucun plastique pour l'emballage de nos produits. <\/p>",
+            "page": ""
+          }
+        },
+        "166365823002b2b9ea-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "1% For the Planet",
+            "icon": "heart",
+            "row_content": "<p>Chaque année, nous reversons 1 % de notre chiffre d'affaires à des associations environnementales. Ces 1% sont réinvestis dans des projets d'avenir pour l'environnement. En savoir plus<a href=\"https:\/\/www.onepercentfortheplanet.fr\/\" target=\"_blank\" title=\"https:\/\/www.onepercentfortheplanet.fr\/\">ici<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "166365823002b2b9ea-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shopify Planet",
+            "icon": "box",
+            "row_content": "<p>Shopify Planet calcul pour nous le nombre de kilomètres généré par nos commandes. En contrepartie, ils rachètent des crédits CO2 pour atteindre une certaine neutralité carbone pour les livraisons. Cela représente environ 60 000km par mois et 32kg d'émissions carbones compensés.<\/p>",
+            "page": ""
+          }
+        },
+        "166365823002b2b9ea-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Climate Neutral",
+            "icon": "leaf",
+            "row_content": "<p>Climate Neutral est une application européenne permettant de calculer <strong>approximativement <\/strong>l'émissions de gaz à effet de serre et de compenser à investissant des projets d'avenirs. Ce n'est pas une solution miracle mais cela nous aide dans notre démarche de neutralité carbone. En savoir plus <a href=\"https:\/\/www.footprint-intelligence.com\/\" target=\"_blank\" title=\"https:\/\/www.footprint-intelligence.com\/\">ici<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "166365823002b2b9ea-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "La Région Nouvelle-Aquitaine",
+            "icon": "silhouette",
+            "row_content": "<p>La Région Nouvelle-Aquitaine soutient notre projet d'imprimerie verte. Ce projet réduit mécaniquement notre compétitivité (cela engendre environ 4% de frais supplémentaires). C'est donc pour cette raison que la région à décider de nous accompagner sur 3 ans dans le but de nous faire grandir et créer un nouveau tissu économique.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "9ca10648-78d2-4be4-84fb-99d494a6e6c1",
+        "827fdeab-9124-4763-8389-9815bccbd727",
+        "166365823002b2b9ea-0",
+        "166365823002b2b9ea-1",
+        "166365823002b2b9ea-2",
+        "166365823002b2b9ea-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Nos actions pour respecter plus l'environnement.",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "1663658836c3868e54": {
+      "type": "multicolumn",
+      "blocks": {
+        "16636588360a038d93-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_for_the_planet_StickerGreen.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16636588360a038d93-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shopify_planet.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16636588360a038d93-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Climate_neutral.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "86711e37-d6aa-40ab-978d-6d7e87ee4965": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Region_nouvelle_aquitaine.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16636588360a038d93-0",
+        "16636588360a038d93-1",
+        "16636588360a038d93-2",
+        "86711e37-d6aa-40ab-978d-6d7e87ee4965"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "eeefcc10-c750-425d-a104-5139d6442071": {
+      "type": "collapsible-content",
+      "blocks": {
+        "692b2a30-982a-4d14-9818-038e5fdbc30d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Rénovation d'un nouvel atelier",
+            "icon": "star",
+            "row_content": "<p>Nous venons d'investir dans une ancienne grange dans le but d'y faire notre atelier. La rénovation à commencer en 2023. Nous allons y emménager normalement mi-2024. Le but est d'y créer l'atelier le plus éco-responsable possible 🤩. Suivez-nous sur <a href=\"https:\/\/www.instagram.com\/stickergreen.fr\/?hl=fr\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/stickergreen.fr\/?hl=fr\">Instagram<\/a> pour suivre les travaux. <\/p>",
+            "page": ""
+          }
+        },
+        "caff2c42-8c21-4ae4-ae99-0790c0b217ff": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Achat de fôrets",
+            "icon": "leaf",
+            "row_content": "<p>Nous sommes conscient que notre activité va toujours générer des émissions de gaz à effet de serre malgré nos actions. C'est pour cette raison que nous allons acheter des puits de carbone pour compenser nos émissions. Nous allons acheter directement des hectares de forêts. Notre priorité reste la diminution des nos GES à la compensation, mais ces hectares vont nous aider dans notre démarche verte. <\/p>",
+            "page": ""
+          }
+        },
+        "21c196aa-3341-45d2-b334-e4fc452866c8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Amélioration des processus internes",
+            "icon": "check_mark",
+            "row_content": "<p>Fin 2023 et début 2024, nous fêterons l'arrivée de plusieurs nouvelles imprimantes. Celles-ci seront équipées d'un grand réservoir d'encre nous permettant de réduire de 90% le plastique issu des cartouches d'encre classiques. C'est une petite avancée, mais une avancée quand même vers notre objectif.  🙌<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "692b2a30-982a-4d14-9818-038e5fdbc30d",
+        "caff2c42-8c21-4ae4-ae99-0790c0b217ff",
+        "21c196aa-3341-45d2-b334-e4fc452866c8"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Nos actions en cours pour l'environnement. ⚙️",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165133014000bc6848": {
+      "type": "rich-text",
+      "blocks": {
+        "1651330140576cdd9e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Et maintenant ?",
+            "heading_size": "h2"
+          }
+        },
+        "2ca4aa4d-7492-45b0-962d-d5be77edf2be": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si vous souhaitez nous aider dans notre démarche ou nous donner des conseils, vous êtes les bienvenus. <\/p>"
+          }
+        },
+        "1651330140576cdd9e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Prendre contact avec nous",
+            "button_link": "shopify:\/\/pages\/contactez-nous",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "1651330140576cdd9e-0",
+        "2ca4aa4d-7492-45b0-962d-d5be77edf2be",
+        "1651330140576cdd9e-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "1663667356263abd75": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1663667356d42ac587-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cette stratégie verte coûte-t-elle cher à l'entreprise ?",
+            "icon": "none",
+            "row_content": "<p>Nous estimons les frais liés à notre stratégie verte par rapport à nos concurrents à 4% (1% For the Planet, Livraison neutre en carbone, emballage recyclé...). <\/p><p>Par contre nous n'avons pas pour autant augmentrer nos prix pour rester compétitif. Nous essayons de prôner plutôt l'efficience des processus internes.<\/p>",
+            "page": ""
+          }
+        },
+        "1663667356d42ac587-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qu'est-ce la compensation carbone ?",
+            "icon": "none",
+            "row_content": "<p>La <em>compensation<\/em> ou <em>contribution<\/em> carbone consiste, pour un financeur (entreprises, collectivités ou particuliers), à soutenir un projet de réduction ou de séquestration d’émissions de GES dont il n’est pas directement responsable.<\/p><p>Les impacts de ces projets sont mesurés et aboutissent à la création de <em>crédits carbone, <\/em>représentant chacun une tonne équivalent CO2 réduite ou séquestrée. Ces crédits deviennent la propriété du financeur et peuvent lui servir dans le cadre de sa stratégie climatique ou de certaines de ses obligations réglementaires.<\/p><p>Chez StickerGreen nous sommes conscient que ce n'est pas la solution miracle mais nous pensons que cela contribue à rendre notre entreprise plus écoresponsable.<\/p><p>Le meilleur CO2 n’est pas celui que l’on compense, mais celui que l’on n’émet pas. La réduction de notre empreinte carbone constitue l’axe principal de notre démarche environnementale. <\/p>",
+            "page": ""
+          }
+        },
+        "1663667356d42ac587-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Êtes-vous plus écoresponsable que vos concurrents ?",
+            "icon": "none",
+            "row_content": "<p>Oui, nous sommes les seuls à notre connaissance à pouvoir proposer un sticker recyclé à base de bouteilles plastiques à 23% tout en gardant une durabilité supérieure à 5 ans. <\/p><p>À savoir que les actions que nous avons mises en place aujourd'hui sont seulement le début de notre défi pour devenir une imprimerie totalement neutre en carbone. <\/p>",
+            "page": ""
+          }
+        },
+        "1663667356d42ac587-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vos produits sont-ils sans PVC ?",
+            "icon": "none",
+            "row_content": "<p>Si aujourd'hui nous voulons proposer un produit complètement sans PVC, cela augmenterait les coûts de la matière première de 235%. En sachant que le PVC représente environ 8% des émissions carbone d'un sticker. <\/p><p>De plus, nos autres matières sont composés de polypro (PET) qui est un plastique consommant beaucoup moins de pétrole lors de la fabrication que le PVC. <\/p><p>Dernièrement, 23% de nos stickers sont composés à partir de bouteille plastique, grâce à cela, le projet StickerGreen prend tout son sens.<\/p><p>Nous travaillons donc à rendre le sticker haute durabilité le plus écoresponsable possible mais nous avons encore des étapes à franchir ! <\/p><p>Nous sommes avant tout une entreprise avec des charges et nous ne pouvons pas nous permettre d'avoir un coût de revient grandement supérieur par rapport à nos concurrents. Au risque de n'avoir aucune commande. Notre objectif est que petit à petit nous devenions plus écoresponsable. <\/p><p>Comptez sur nous pour intégrer une gamme <em>PVC-free<\/em> le plus tôt possible quand les conditions de marché le permettront.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663667356d42ac587-0",
+        "1663667356d42ac587-1",
+        "1663667356d42ac587-2",
+        "1663667356d42ac587-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Des questions ? Nous tentons d'y répondre.",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5a76fb96-a881-4e6d-ad34-d4b6562333d3",
+    "16563508656b043041",
+    "24851e46-bbda-42dc-b8e8-18861d0e5411",
+    "1656350872233b556f",
+    "1663658839bc89ac0a",
+    "1663660601b1306648",
+    "16636603987dd8964b",
+    "1656350236cf90f7fc",
+    "165941976952eb3b81",
+    "16636628735779420c",
+    "166365823023aefc32",
+    "1663658836c3868e54",
+    "eeefcc10-c750-425d-a104-5139d6442071",
+    "165133014000bc6848",
+    "1663667356263abd75"
+  ]
+}
