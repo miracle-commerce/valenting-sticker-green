@@ -16,11 +16,26 @@
             "text": "Stickers personnalisés éco-responsables fabriqués en France : donnez une touche écologique à vos affaires",
             "text_style": "caption-with-letter-spacing"
           }
+        },
+        "6a9de0b1-7636-4778-9c77-ae2164b45d65": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Commander",
+            "button_link_1": "shopify:\/\/collections\/sticker-personnalise",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/collections\/sticker-personnalise",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "1656349459abe67619-0",
-        "1656349459abe67619-1"
+        "1656349459abe67619-1",
+        "6a9de0b1-7636-4778-9c77-ae2164b45d65"
+      ],
+      "custom_css": [
+        "a {background: #ff802b; color: white;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Illustration_Stickergreen_accueil.png",
@@ -34,6 +49,25 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "725acbc9-9b32-4555-803d-0826948bef95": {
+      "type": "boost-image-with-text",
+      "blocks": {
+        "37aab908-fe23-4c97-b47e-1c1cf45919d6": {
+          "type": "block",
+          "settings": {
+            "text": "<p>Nos clients disent<\/p>",
+            "heading": "Excellent",
+            "image": "shopify:\/\/shop_images\/4.5stars.svg",
+            "paragraph": ""
+          }
+        }
+      },
+      "block_order": [
+        "37aab908-fe23-4c97-b47e-1c1cf45919d6"
+      ],
+      "settings": {
       }
     },
     "4e624d64-ae57-4e8d-83da-7723e374160b": {
@@ -475,8 +509,6 @@
         "d16e79d5-89e2-4ca9-82ce-a6a7ec443292": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
             "html_area": ""
           }
         }
@@ -486,28 +518,6 @@
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "7193c23c-34ca-4eb2-b8dc-d8d479df7d69": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15446895362236__7193c23c-34ca-4eb2-b8dc-d8d479df7d69-16718236959d8fd6c4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "@stickergreen_",
-            "button_link": "https:\/\/www.instagram.com\/stickergreen.fr\/",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "template--15446895362236__7193c23c-34ca-4eb2-b8dc-d8d479df7d69-16718236959d8fd6c4-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 24
       }
     },
     "16524400184597cf46": {
@@ -702,15 +712,6 @@
         "padding_bottom": 44
       }
     },
-    "9977de0a-564b-4700-a72a-fddeed6ffb39": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"reputon-google-reviews-widget\" id=\"cce6b010-8b48-11ed-8b03-3b8f911f2771\" ><\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 24
-      }
-    },
     "628e7298-a80b-4a01-9589-6503a7132ef5": {
       "type": "collapsible-content",
       "blocks": {
@@ -819,6 +820,7 @@
   },
   "order": [
     "1656349459325e6663",
+    "725acbc9-9b32-4555-803d-0826948bef95",
     "4e624d64-ae57-4e8d-83da-7723e374160b",
     "16564153798ba65d93",
     "1652538276c5e65c88",
@@ -832,11 +834,9 @@
     "16564155791e0e7bd1",
     "fdf54778-901b-4fe7-b783-67130d9e76a6",
     "1671823658460b231c",
-    "7193c23c-34ca-4eb2-b8dc-d8d479df7d69",
     "16524400184597cf46",
     "1663624145c712c36c",
     "1663623224aefd6425",
-    "9977de0a-564b-4700-a72a-fddeed6ffb39",
     "628e7298-a80b-4a01-9589-6503a7132ef5",
     "c08c78b5-3e44-42a6-96bd-9371fa5aa867"
   ]

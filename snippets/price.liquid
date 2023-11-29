@@ -1,3 +1,15 @@
+<style>
+  .card__badges {
+    color: white;
+    position: absolute;
+    top: 6px;
+    left: 12px;
+    background-color: #f07f34;
+    padding: 2px 10px;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+}
+</style>
 {% comment %}
     Renders a list of product's price (regular, sale)
 
@@ -29,7 +41,16 @@
     assign money_price = 'products.product.price.from_price_html' | t: price: money_price
   endif
 -%}
+<!-- start custom label -->
+{% for tag in product.tags %}
+  {% if tag contains 'badge__' %}
+     <span class="card__badges">
+         {{ tag | remove: "badge__" }}
+     </span>
+  {% endif %}
 
+{% endfor %}
+<!--End start custom label -->
 <div class="price
   {%- if price_class %} {{ price_class }}{% endif -%}
   {%- if available == false %} price--sold-out {% endif -%}

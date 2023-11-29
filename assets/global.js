@@ -899,3 +899,52 @@ class VariantRadios extends VariantSelects {
 }
 
 customElements.define('variant-radios', VariantRadios);
+
+
+
+/*////////////////////////////custom  productpage description //////////////////////////////////////////////////////////////////////////*/
+
+function openTab(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent-cus");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks-cus");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+document.getElementById("tab-cus-active").click();
+
+// read more button 
+document.addEventListener("DOMContentLoaded", function() {
+    const description = document.querySelector("#product-description");
+    const readMoreButton = document.querySelector("#read-more-button");
+    const maxDescriptionHeight = 200; // Set the maximum height before truncating.
+
+    if (description && readMoreButton) {
+      if (description.scrollHeight > maxDescriptionHeight) {
+        description.style.maxHeight = maxDescriptionHeight + "px";
+        description.classList.add("collapsed");
+        readMoreButton.style.display = "block";
+
+        readMoreButton.addEventListener("click", function() {
+          description.classList.toggle("collapsed");
+          if (description.classList.contains("collapsed")) {
+            setTimeout(function() {
+              description.style.maxHeight = maxDescriptionHeight + "px";
+            }, 10); // Add a small delay before setting max-height
+            readMoreButton.textContent = "Read More...";
+          } else {
+            description.style.maxHeight = description.scrollHeight + "px";
+            readMoreButton.textContent = "Read Less..";
+          }
+        });
+      } else {
+        readMoreButton.style.display = "none";
+      }
+    }
+  });

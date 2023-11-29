@@ -74,6 +74,25 @@
         "padding_bottom": 36
       }
     },
+    "01a3244a-7e51-4aa8-b14a-a1947e64fcfd": {
+      "type": "boost-image-with-text",
+      "blocks": {
+        "8c77a6f0-8a5d-4a24-bb11-0f551533367d": {
+          "type": "block",
+          "settings": {
+            "text": "<p>Nos clients disent<\/p>",
+            "heading": "Excellent",
+            "image": "shopify:\/\/shop_images\/4.5stars.svg",
+            "paragraph": ""
+          }
+        }
+      },
+      "block_order": [
+        "8c77a6f0-8a5d-4a24-bb11-0f551533367d"
+      ],
+      "settings": {
+      }
+    },
     "1664826087042d22d8": {
       "type": "multicolumn",
       "blocks": {
@@ -125,15 +144,6 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "1652538213f7395e35": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"reputon-google-reviews-widget\" id=\"59937870-ca3f-11ec-a4ce-4708f7ca8445\" style=\"display: flex; justify-content: center;\"><\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "16587727946ac3a6dd": {
@@ -348,8 +358,8 @@
   },
   "order": [
     "main",
+    "01a3244a-7e51-4aa8-b14a-a1947e64fcfd",
     "1664826087042d22d8",
-    "1652538213f7395e35",
     "16587727946ac3a6dd",
     "165653789123bffd8e",
     "product-recommendations",

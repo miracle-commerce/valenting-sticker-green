@@ -1,3 +1,8 @@
+<style>
+  .card__badges {
+        background-color: #f07f34; border-radius: 25% 10%; color: white;padding: 10px;text-transform: capitalize;
+  }
+</style>
 <section id="MainProduct-{{ section.id }}" class="page-width section-{{ section.id }}-padding" data-section="{{ section.id }}">
   {{ 'section-main-product.css' | asset_url | stylesheet_tag }}
   {{ 'component-accordion.css' | asset_url | stylesheet_tag }}
@@ -212,6 +217,16 @@
                   {{ product.title | escape }}
                 </h2>
               </a>
+          
+            {% for tag in product.tags %}
+              {% if tag contains 'badge__' %}
+            <br>
+                 <span class="card__badges">
+                     {{ tag | remove: "badge__" }}
+                 </span>
+              {% endif %}
+            {% endfor %}
+                          
             </div>
           {%- when 'price' -%}
             <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
@@ -237,7 +252,77 @@
           {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte quick-add-hidden">
-                {{ product.description }}
+               
+ <!-- star custom Read more button -->
+<style>
+ #product-description {
+    max-height: 10px; /* Adjust this height as needed */
+    overflow: hidden;
+    position: relative;
+    transition: max-height 0.3s ease; /* Add a transition with a 0.3s delay */
+  }
+
+  #product-description.expanded {
+    max-height: none;
+  }
+
+#read-more-button {
+                cursor: pointer;
+                display: inline-block;
+                outline: 0;
+                cursor: pointer;
+               
+                border: none;
+                color:white;
+                background: rgb(46, 101, 96);
+                padding: 8px;
+                box-shadow: rgba(0, 0, 0, 0.07) 0px 2px 4px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1.5px 0px;
+                
+                font-size: 16px;
+                height: 42px;
+}
+              
+                
+  
+</style>
+          <div id="tab-1" class="tabcontent-cus">    
+    <div id="product-description"> 
+ {{ product.description }}
+ </div></div>
+<button id="read-more-button">Lire Plus</button>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const description = document.querySelector("#product-description");
+    const readMoreButton = document.querySelector("#read-more-button");
+    const maxDescriptionHeight = 140; // Set the maximum height before truncating.
+
+    if (description && readMoreButton) {
+      if (description.scrollHeight > maxDescriptionHeight) {
+        description.style.maxHeight = maxDescriptionHeight + "px";
+        description.classList.add("collapsed");
+        readMoreButton.style.display = "block";
+
+        readMoreButton.addEventListener("click", function() {
+          description.classList.toggle("collapsed");
+          if (description.classList.contains("collapsed")) {
+            setTimeout(function() {
+              description.style.maxHeight = maxDescriptionHeight + "px";
+            }, 10); // Add a small delay before setting max-height
+            readMoreButton.textContent = "Lire Plus...";
+          } else {
+            description.style.maxHeight = description.scrollHeight + "px";
+            readMoreButton.textContent = "Lire moins..";
+          }
+        });
+      } else {
+        readMoreButton.style.display = "none";
+      }
+    }
+  });
+</script>
+<!-- star custom Read more button -->
+
+
               </div>
             {%- endif -%}
           {%- when 'custom_liquid' -%}

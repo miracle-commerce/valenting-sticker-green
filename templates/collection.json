@@ -28,6 +28,26 @@
         "padding_bottom": 0
       }
     },
+    "f4e8180b-00e2-4bb0-90d6-6b64c3506d91": {
+      "type": "boost-image-with-text",
+      "blocks": {
+        "9eee90a0-d9be-4c91-b9ad-1bf7c2ac7588": {
+          "type": "block",
+          "settings": {
+            "text": "<p>Nos clients disent<\/p>",
+            "heading": "Excellent",
+            "image": "shopify:\/\/shop_images\/4.5stars.svg",
+            "paragraph": "",
+            "imageid": "shopify:\/\/shop_images\/tplogo.svg"
+          }
+        }
+      },
+      "block_order": [
+        "9eee90a0-d9be-4c91-b9ad-1bf7c2ac7588"
+      ],
+      "settings": {
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -111,6 +131,7 @@
   },
   "order": [
     "1656088424e28889b2",
+    "f4e8180b-00e2-4bb0-90d6-6b64c3506d91",
     "banner",
     "product-grid",
     "16513345944c58c41a"

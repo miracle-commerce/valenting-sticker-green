@@ -1,0 +1,75 @@
+/* custom tab  Description css here */
+
+.tab-customize {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+.tab-customize button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+.tab-customize button:hover {
+  background-color: #ddd;
+}
+.tab-customize button.active {
+  background-color: #ccc;
+}
+.tabcontent-cus {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+/* Read more Button */
+#product-description {
+    max-height: 10px; /* Adjust this height as needed */
+    overflow: hidden;
+    position: relative;
+    transition: max-height 0.3s ease; /* Add a transition with a 0.3s delay */
+  }
+
+  #product-description.expanded {
+    max-height: none;
+  }
+
+#read-more-button {
+   
+    cursor: pointer;
+   
+
+                display: inline-block;
+                outline: 0;
+                cursor: pointer;
+                border-radius: 6px;
+                border: 2px solid #ff4742;
+                color: #ff4742;
+                background: 0 0;
+                padding: 8px;
+                box-shadow: rgba(0, 0, 0, 0.07) 0px 2px 4px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1.5px 0px;
+                font-weight: 800;
+                font-size: 16px;
+                height: 42px;
+                :hover{
+                    background-color: #ff4742;
+                    color: #fff;
+                }
+                
+  }
+
+.card__badges {
+    color: #f9f8f8;
+    position: absolute;
+    top: -3rem;
+    left: -33px;
+    border-radius: 8px;
+    background-color: #ec0000;
+    padding: 3px;
+    text-transform: capitalize;
+}

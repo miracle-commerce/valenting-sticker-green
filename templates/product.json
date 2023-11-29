@@ -73,6 +73,25 @@
         "padding_bottom": 0
       }
     },
+    "189560da-25ab-4a6c-a209-5765651bd17a": {
+      "type": "boost-image-with-text",
+      "blocks": {
+        "4b1f2a72-c43c-4a2a-9180-e187cdc2db39": {
+          "type": "block",
+          "settings": {
+            "text": "<p>Nos clients disent<\/p>",
+            "heading": "Excellent",
+            "image": "shopify:\/\/shop_images\/4.5stars.svg",
+            "paragraph": ""
+          }
+        }
+      },
+      "block_order": [
+        "4b1f2a72-c43c-4a2a-9180-e187cdc2db39"
+      ],
+      "settings": {
+      }
+    },
     "16515138601d79f789": {
       "type": "custom-liquid",
       "settings": {
@@ -84,7 +103,6 @@
     },
     "rich-text": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -97,6 +115,7 @@
       "block_order": [
         "heading"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "accent-2",
         "full_width": true,
@@ -106,7 +125,6 @@
     },
     "1656539666f8423dab": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "53ff0918-4e7e-4e24-84ed-1d1f474eeb76": {
           "type": "column",
@@ -155,6 +173,7 @@
         "9f59933e-03c0-4ddc-89fd-a430b35ed593",
         "78d11eee-3fdd-4ddb-985d-07167cab1377"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -272,7 +291,6 @@
     },
     "1658771965b2c08d16": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "165877196400d409c6-0": {
           "type": "collapsible_row",
@@ -317,6 +335,7 @@
         "165877196400d409c6-2",
         "165877196400d409c6-3"
       ],
+      "disabled": true,
       "settings": {
         "caption": "",
         "heading": "FAQ",
@@ -335,6 +354,7 @@
   },
   "order": [
     "main",
+    "189560da-25ab-4a6c-a209-5765651bd17a",
     "16515138601d79f789",
     "rich-text",
     "1656539666f8423dab",

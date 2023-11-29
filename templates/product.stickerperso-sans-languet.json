@@ -73,6 +73,92 @@
         "padding_bottom": 36
       }
     },
+    "326bf69d-68a0-4e33-a5ff-fd682e3f2c1b": {
+      "type": "boost-image-with-text",
+      "blocks": {
+        "86af6ca8-7392-4136-9780-82bb1efdcb1d": {
+          "type": "block",
+          "settings": {
+            "text": "<p>Nos clients disent<\/p>",
+            "heading": "Excellent",
+            "image": "shopify:\/\/shop_images\/4.5stars.svg",
+            "paragraph": ""
+          }
+        }
+      },
+      "block_order": [
+        "86af6ca8-7392-4136-9780-82bb1efdcb1d"
+      ],
+      "settings": {
+      }
+    },
+    "multicolumn-2": {
+      "type": "multicolumn",
+      "blocks": {
+        "475e7a09-b88a-4554-a896-708a0230c09d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/04_2_jours_de_production_f1366494-f8fb-4fe0-ad0e-961b5dc66df6.png",
+            "title": "Production rapide",
+            "text": "<p>Recevez rapidement vos stickers personnalisés grâce au délai de production de 2 jours et à la livraison gratuite.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c5323292-27df-4d5b-842f-8779450742ac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01_Controle_humain_des_fichiers_c10a109a-9f94-41f9-a460-f3b5ef6ce2a6.png",
+            "title": "Contrôle des fichiers",
+            "text": "<p>Vérification humaine de tous les fichiers pour simplifier votre commande.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "192ebf62-0012-40d1-b2de-8f0100e55e5e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/03_Sticker_resistant_et_etanche.png",
+            "title": "Résistant et étanche",
+            "text": "<p>Vinyle épais et résistant qui protège vos autocollants personnalisés des rayures, de la pluie et du soleil.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0043eb11-454b-43cf-81e0-fd51f22f8c2b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/06_Sticker_a_base_de_bouteille_plastique_391a3006-8394-4785-97ee-b5192fa95200.png",
+            "title": "Recyclé et écoresponsable",
+            "text": "<p>Stickers à base de bouteilles plastiques pour une grande durabilité.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "475e7a09-b88a-4554-a896-708a0230c09d",
+        "c5323292-27df-4d5b-842f-8779450742ac",
+        "192ebf62-0012-40d1-b2de-8f0100e55e5e",
+        "0043eb11-454b-43cf-81e0-fd51f22f8c2b"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 12
+      }
+    },
     "33818a30-5b94-4761-bcbc-2c4e0c4b4958": {
       "type": "multicolumn",
       "blocks": {
@@ -153,82 +239,6 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "1652538213f7395e35": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"reputon-google-reviews-widget\" id=\"59937870-ca3f-11ec-a4ce-4708f7ca8445\" style=\"display: flex; justify-content: center;\"><\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn-2": {
-      "type": "multicolumn",
-      "blocks": {
-        "475e7a09-b88a-4554-a896-708a0230c09d": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/04_2_jours_de_production_f1366494-f8fb-4fe0-ad0e-961b5dc66df6.png",
-            "title": "Production rapide",
-            "text": "<p>Recevez rapidement vos étiquettes personnalisées grâce au délai de production de 2 jours et à la livraison gratuite.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c5323292-27df-4d5b-842f-8779450742ac": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/01_Controle_humain_des_fichiers_c10a109a-9f94-41f9-a460-f3b5ef6ce2a6.png",
-            "title": "Contrôle des fichiers",
-            "text": "<p>Vérification humaine de tous les fichiers pour simplifier votre commande.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "192ebf62-0012-40d1-b2de-8f0100e55e5e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/03_Sticker_resistant_et_etanche.png",
-            "title": "Résistant et étanche",
-            "text": "<p>Vinyle épais et résistant qui protège vos étiquettes personnalisés des rayures, de la pluie et du soleil.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "0043eb11-454b-43cf-81e0-fd51f22f8c2b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/06_Sticker_a_base_de_bouteille_plastique_391a3006-8394-4785-97ee-b5192fa95200.png",
-            "title": "Recyclé et écoresponsable",
-            "text": "<p>Stickers à base de bouteilles plastiques pour une grande durabilité.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "475e7a09-b88a-4554-a896-708a0230c09d",
-        "c5323292-27df-4d5b-842f-8779450742ac",
-        "192ebf62-0012-40d1-b2de-8f0100e55e5e",
-        "0043eb11-454b-43cf-81e0-fd51f22f8c2b"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 20,
-        "padding_bottom": 12
       }
     },
     "16587724894f607832": {
@@ -453,10 +463,10 @@
   },
   "order": [
     "main",
+    "326bf69d-68a0-4e33-a5ff-fd682e3f2c1b",
+    "multicolumn-2",
     "33818a30-5b94-4761-bcbc-2c4e0c4b4958",
     "166419869341651f19",
-    "1652538213f7395e35",
-    "multicolumn-2",
     "16587724894f607832",
     "165653789123bffd8e",
     "product-recommendations",

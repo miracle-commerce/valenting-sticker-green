@@ -74,6 +74,25 @@
         "padding_bottom": 36
       }
     },
+    "8fa01f92-fd47-4fa7-92e4-bc58c99e8c33": {
+      "type": "boost-image-with-text",
+      "blocks": {
+        "f88d72b8-0dc9-4457-860a-a863cb1e8fcd": {
+          "type": "block",
+          "settings": {
+            "text": "<p>Nos clients disent<\/p>",
+            "heading": "Excellent",
+            "image": "shopify:\/\/shop_images\/4.5stars.svg",
+            "paragraph": ""
+          }
+        }
+      },
+      "block_order": [
+        "f88d72b8-0dc9-4457-860a-a863cb1e8fcd"
+      ],
+      "settings": {
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -327,6 +346,7 @@
   },
   "order": [
     "main",
+    "8fa01f92-fd47-4fa7-92e4-bc58c99e8c33",
     "rich-text",
     "multicolumn",
     "multicolumn-7",

@@ -75,6 +75,25 @@
         "padding_bottom": 0
       }
     },
+    "14bb7261-46c5-432c-a50c-7cf1a7a8198e": {
+      "type": "boost-image-with-text",
+      "blocks": {
+        "df01bf00-cdeb-42df-9f1d-5ba9a43cb28b": {
+          "type": "block",
+          "settings": {
+            "text": "<p>Nos clients disent<\/p>",
+            "heading": "Excellent",
+            "image": "shopify:\/\/shop_images\/4.5stars.svg",
+            "paragraph": ""
+          }
+        }
+      },
+      "block_order": [
+        "df01bf00-cdeb-42df-9f1d-5ba9a43cb28b"
+      ],
+      "settings": {
+      }
+    },
     "166419860865ecf74c": {
       "type": "rich-text",
       "blocks": {
@@ -110,15 +129,6 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "16515138601d79f789": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"reputon-google-reviews-widget\" id=\"59937870-ca3f-11ec-a4ce-4708f7ca8445\" style=\"display: flex; justify-content: center;\"><\/div>",
-        "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -381,8 +391,8 @@
   },
   "order": [
     "main",
+    "14bb7261-46c5-432c-a50c-7cf1a7a8198e",
     "166419860865ecf74c",
-    "16515138601d79f789",
     "multicolumn-2",
     "1658772657adc333fc",
     "1656538869698b6958",
